@@ -1,7 +1,7 @@
 {
   "headers":{
-    "/login/":{
-      "Content-Type":"text/plain; charset=UTF-8",
+    "/login":{
+      "X-Author":"shine84",
       "Access-Control-Allow-Origin": "*"
     }
   }
