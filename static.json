@@ -4,6 +4,11 @@
       "X-Author":"shine84",
       "Content-Type":"text/plain; charset=UTF-8",
       "Access-Control-Allow-Origin": "*"
+    },
+    "/sample/":{
+      "X-Author":"shine84",
+      "Content-Type":"text/plain; charset=UTF-8",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
